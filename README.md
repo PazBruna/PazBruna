@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-paz/)
 [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paz_bruna/)
-[![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunappaz@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunappaz@outlook.com?subject=[GitHub]%2Hello)
 ## 📚 Knowledges
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)

@@ -49,7 +49,7 @@
 <center>
     <tr>
       <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=PazBruna&show_icons=true&theme=dracula" alt="Bruna's github stats"/>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=PazBruna&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dracula" alt="Bruna's github stats"/>
           </a></p>
        <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=PazBruna&theme=dracula"  alt="Bruna's github stats"/></a></p>
       </td>

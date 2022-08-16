@@ -51,10 +51,10 @@
       <td>
         <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=PazBruna&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dracula" alt="Bruna's github stats"/>
           </a></p>
-       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=PazBruna&theme=dracula"  alt="Bruna's github stats"/></a></p>
+       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=PazBruna&hide_border=true&theme=dracula"  alt="Bruna's github stats"/></a></p>
       </td>
        <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PazBruna&layout=compact&theme=dracula" alt="Bruna's github stats"/> </a></p>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PazBruna&layout=compact&hide_border=true&theme=dracula" alt="Bruna's github stats"/> </a></p>
       </td>
       </tr>
 </center>

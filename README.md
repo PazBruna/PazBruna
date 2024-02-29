@@ -3,7 +3,7 @@
 
 ### 👩‍💻 About me
 
-- I'm a Backend Developer within 4+ years of experience. 
+- I'm a Backend Developer within 5+ years of experience. 
 - I'm a Computer Science Student at [Centro Universitário FEI](https://portal.fei.edu.br/)
 - 5 years working with web development and Javascript.
 
